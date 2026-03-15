@@ -48,7 +48,7 @@ Follow these steps to run the project on your local machine.
     ```bash
     git clone https://github.com/LeoTheAuJai/My_Introduction.git
     cd My_Introduction
-
+    ```
 2.  **Install dependencies**
     ```bash
     npm install
