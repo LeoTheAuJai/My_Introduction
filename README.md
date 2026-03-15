@@ -1,7 +1,5 @@
 
 ### **README.md (英文版)**
-
-```markdown
 # 🧑‍💻 Personal Introduction Website
 
 This is the source code for my personal portfolio website, built with **React** and **Next.js**. It serves as a central hub to showcase my projects, technical skills, and professional background as a Full Stack Developer. The site is deployed on **Vercel** and includes a contact form for easy communication.
@@ -50,7 +48,6 @@ Follow these steps to run the project on your local machine.
     ```bash
     git clone https://github.com/LeoTheAuJai/My_Introduction.git
     cd My_Introduction
-    ```
 
 2.  **Install dependencies**
     ```bash
