@@ -88,11 +88,6 @@ Feel free to reach out through the contact form on the [live website](https://my
 ---
 ```
 
-### **README.md (中文版)**
-
-你可以將以下內容另存為 `README.zh.md` 或者直接替換上面的英文版。
-
-```markdown
 # 🧑‍💻 個人介紹網站
 
 這是我的個人作品集網站的原始碼，使用 **React** 和 **Next.js** 建構。這個網站作為一個核心平台，展示我的專案、技術能力以及作為全端開發者的專業背景。網站部署在 **Vercel** 上，並包含一個聯絡表單以便聯繫。
@@ -111,20 +106,10 @@ Feel free to reach out through the contact form on the [live website](https://my
 
 ## 🛠️ 使用技術
 
-*   [![Next.js][Next.js]][Next-url]
-*   [![React][React.js]][React-url]
-*   [![TypeScript][TypeScript]][TypeScript-url]
-*   [![Tailwind CSS][Tailwind]][Tailwind-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
+*   [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+*   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+*   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+*   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## 🚀 本地運行指南
 
@@ -141,6 +126,7 @@ Feel free to reach out through the contact form on the [live website](https://my
     ```bash
     git clone https://github.com/LeoTheAuJai/My_Introduction.git
     cd My_Introduction
+    ```
 
 2.  **安裝依賴套件**
     ```bash
