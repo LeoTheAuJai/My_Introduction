@@ -141,7 +141,6 @@ Feel free to reach out through the contact form on the [live website](https://my
     ```bash
     git clone https://github.com/LeoTheAuJai/My_Introduction.git
     cd My_Introduction
-    ```
 
 2.  **安裝依賴套件**
     ```bash
