@@ -90,4 +90,24 @@ export const projects = [
     imageColor: "from-indigo-500 to-purple-400",
     features: ["即時訊息", "登入/註冊系統", "時間衝突檢查","一鍵分享所有行程","檢視所有參加活動者"]
   },
+  {
+    id: 10,
+    title: "BVQC 影像編碼與解碼工具",
+    description: "這是一個使用 BVQC（基於區塊的視覺量化編碼） 方法實現影像編碼與解碼的 Python 程式。它透過分組像素並計算平均顏色值來減少檔案大小，達到有效的影像壓縮。",
+    technologies: ["Pythhon"],
+    githubUrl: "https://github.com/LeoTheAuJai/BVQC-encode-and-decode",
+    liveUrl: "https://github.com/LeoTheAuJai/BVQC-encode-and-decode",
+    imageColor: "from-indigo-500 to-purple-400",
+    features: ["BVQC加密","BVQC解密"]
+  },
+  {
+    id: 11,
+    title: " Unity VR 合成與拖拽遊戲 (for Meta Quest 3)",
+    description: "這是一款使用 Unity 開發、專為 Meta Quest 3 設計的 VR 合成與拖拽遊戲。遊戲分為兩個階段：在合成台上將零件組合成一輛車，然後進入方塊放置挑戰。所有互動都針對 VR 手部追蹤與控制器操作進行了優化。",
+    technologies: ["C#", "Unity", "Meta XR SDK", "XR Interaction Toolkit", "VR Hand Tracking"],
+    githubUrl: "https://github.com/LeoTheAuJai/Unity_dragging_game/tree/main",
+    liveUrl: "https://github.com/LeoTheAuJai/Unity_dragging_game/tree/main",
+    imageColor: "from-indigo-500 to-purple-400",
+    features: ["雙階段玩法 (合成賽車 + 方塊放置)",  "直覺的 VR 抓取與拖曳機制","合成台物品組合系統",  "支援 Meta Quest 3 手部追蹤",  "沉浸式 VR 互動體驗"]
+  },
 ];
